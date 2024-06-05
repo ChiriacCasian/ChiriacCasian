@@ -1,7 +1,5 @@
-## Hi there muie 👋
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta http-equiv="refresh" content="5">
     <title>Auto Refresh Page</title>
@@ -14,6 +12,6 @@
 ceva
 </noscript>
 
-![](https://komarev.com/ghpvc/?username=ChiriacCasian)<br/>
+![](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)<br/>
 </body>
 </html>
