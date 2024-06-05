@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there muie 👋
 
-<!--
-**ChiriacCasian/ChiriacCasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="5">
+    <title>Auto Refresh Page</title>
+</head>
+<body>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<noscript>
+ceva
+</noscript>
+
+![](https://komarev.com/ghpvc/?username=ChiriacCasian)<br/>
+</body>
+</html>
