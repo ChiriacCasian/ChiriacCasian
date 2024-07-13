@@ -2,14 +2,13 @@
 <html lang="en">
 <head>
     <meta http-equiv="refresh" content="5">
-    <title>Auto Refresh Page</title>
 </head>
 <body>
 
 <br>
 
 <noscript>
-ceva
+Welcome to my page!
 </noscript>
 
 ![](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)<br/>
