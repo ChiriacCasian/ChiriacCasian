@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta http-equiv="refresh" content="5">
-</head>
-<body>
+Welcome to my page.
 
-<br>
-
-<noscript>
-Welcome to my page!
-</noscript>
-
-![](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)<br/>
-</body>
-</html>
+Here I code things to help me with daily life and schoolwork.
