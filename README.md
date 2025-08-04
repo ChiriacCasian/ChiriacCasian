@@ -5,4 +5,4 @@
 - ❇️**CommitScheduler (Java)** : Custom Intellij Idea plugin, for scheduling commits to be pushed according to a schedule configurable by the user.
 - ❇️**Codemetrics.io (React, Java, Python)** : Website for monitoring live status of programming jobs/languages in NL/DE/USA, find rankings, average salaries, number of postings per language and per region.
 - ❇️**AutoCompleteCaching (Java, Kotlin)** : Custom Intellij Idea plugin, for showcasing AI AutoCompletions caching algorighm based on a prefix tree approach. (JetBrains interview assignment)
-- ❇️**VcsMergeBaseFinderForJBInterview (Java)** : Custom Intellij Idea plugin, for finding the merge base of two branches. (JetBrains interview assignment)
+- ❇️**VcsMergeBaseFinder (Java)** : Custom Intellij Idea plugin, for finding the merge base of two branches. (JetBrains interview assignment)
