@@ -1,4 +1,4 @@
-## Check out my projects and my [dockerHub](https://hub.docker.com/repositories/chiriaccasian123)!
+## [dockerHub](https://hub.docker.com/repositories/chiriaccasian123)
 - ❇️**E2ETestingPlatform (Kotlin DSL)** : Create tests for Web, Mobile and Api applications, from a convenient UI with Playwright codeGen and Appium Inspector, everything integrated in Teamcity.
   - ❇️**WebpagesInTeamCityPlugin (Java)** : Custom TeamCity plugin to integrate the CodeGen UI for creating tests into the teamcity UI.
   - ❇️**JourneyExecutor (Java)** : Backend logic for running the tests and generating reports.
