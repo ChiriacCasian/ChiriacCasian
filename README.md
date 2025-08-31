@@ -1,8 +1,8 @@
-❇️ **E2ETestingPlatform (Kotlin DSL)** : Create tests for Web, Mobile and Api applications, with Playwright codeGen and Appium Inspector, everything integrated in Teamcity.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❇️ **WebpagesInTeamCityPlugin (Java)** : Custom TeamCity plugin to integrate UI for creating tests into the teamcity UI.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❇️ **JourneyExecutor (Java)** : Executable running the tests and generating reports.\
-❇️ **CommitScheduler (Java)** : Custom Intellij Idea plugin, for scheduling commits to be pushed according to a schedule configurable by the user.\
-❇️ **Codemetrics.info (React, Java, Python)** : Website for monitoring live status of programming jobs/languages in NL/DE/USA, find rankings, average salaries, postings per language and per region.\
-❇️ **AutoCompleteCaching (Java, Kotlin)** : Custom Intellij Idea plugin, for showcasing AI code completions caching algorighm based on a prefix tree approach. (JetBrains interview assignment)\
-❇️ **VcsMergeBaseFinder (Java)** : Custom Intellij Idea plugin, for finding the merge base of two branches. (JetBrains interview assignment)
+❇️ **[E2ETestingPlatform](https://github.com/ChiriacCasian/E2ETestingPlatform) (Kotlin DSL)** : Create tests for Web, Mobile and Api applications, with Playwright codeGen and Appium Inspector, everything integrated in Teamcity.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❇️ **[WebpagesInTeamCityPlugin](https://github.com/ChiriacCasian/WebpagesInTeamCityPlugin) (Java)** : Custom TeamCity plugin to integrate UI for creating tests into the teamcity UI.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❇️ **[JourneyExecutor](https://github.com/ChiriacCasian/JourneyExecutor) (Java)** : Executable running the tests and generating reports.\
+❇️ **[CommitScheduler](https://github.com/ChiriacCasian/CommitScheduler)  (Java)** : Custom Intellij Idea plugin, for scheduling commits to be pushed according to a schedule configurable by the user.\
+❇️ **[Codemetrics.info](https://github.com/ChiriacCasian/Codemetrics.info) (React, Java, Python)** : Website for monitoring live status of programming jobs/languages in NL/DE/USA, find rankings, average salaries, postings per language and per region.\
+❇️ **[AutoCompleteCaching](https://github.com/ChiriacCasian/AutoCompleteCaching) (Java, Kotlin)** : Custom Intellij Idea plugin, for showcasing AI code completions caching algorighm based on a prefix tree approach. (JetBrains interview assignment)\
+❇️ **[VcsMergeBaseFinder](https://github.com/ChiriacCasian/VcsMergeBaseFinder) (Java)** : Custom Intellij Idea plugin, for finding the merge base of two branches. (JetBrains interview assignment)
 ### [dockerHub](https://hub.docker.com/repositories/chiriaccasian123)
