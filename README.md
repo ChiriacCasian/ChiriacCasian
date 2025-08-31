@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❇️ **WebpagesInTeamCityPlugin (Java)** : Custom TeamCity plugin to integrate UI for creating tests into the teamcity UI.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❇️ **JourneyExecutor (Java)** : Executable running the tests and generating reports.\
 ❇️ **CommitScheduler (Java)** : Custom Intellij Idea plugin, for scheduling commits to be pushed according to a schedule configurable by the user.\
-❇️ **Codemetrics.io (React, Java, Python)** : Website for monitoring live status of programming jobs/languages in NL/DE/USA, find rankings, average salaries, postings per language and per region.\
+❇️ **Codemetrics.info (React, Java, Python)** : Website for monitoring live status of programming jobs/languages in NL/DE/USA, find rankings, average salaries, postings per language and per region.\
 ❇️ **AutoCompleteCaching (Java, Kotlin)** : Custom Intellij Idea plugin, for showcasing AI code completions caching algorighm based on a prefix tree approach. (JetBrains interview assignment)\
 ❇️ **VcsMergeBaseFinder (Java)** : Custom Intellij Idea plugin, for finding the merge base of two branches. (JetBrains interview assignment)
 ### [dockerHub](https://hub.docker.com/repositories/chiriaccasian123)
