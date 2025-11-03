@@ -5,4 +5,6 @@
 ❇️ **[Codemetrics.info](https://github.com/ChiriacCasian/Codemetrics.info) (React, Java, Python)** : Website for monitoring live status of programming jobs/languages in NL/DE/USA, find rankings, average salaries, postings per language and per region.\
 ❇️ **[AutoCompleteCaching](https://github.com/ChiriacCasian/AutoCompleteCaching) (Java, Kotlin)** : Custom Intellij Idea plugin, for showcasing AI code completions caching algorighm based on a prefix tree approach. (JetBrains interview assignment)\
 ❇️ **[VcsMergeBaseFinder](https://github.com/ChiriacCasian/VcsMergeBaseFinder) (Java)** : Custom Intellij Idea plugin, for finding the merge base of two branches. (JetBrains interview assignment)
+❇️ **[InsuranceClaimProcessingPipeline](https://github.com/ChiriacCasian/InsuranceClaimProcessingPipeline) (Python)** : AI Agent for evaluating insurance claims from raw files, visual model document processing, OCR scan and NLP model Judge for decision making.
+
 ### [dockerHub](https://hub.docker.com/repositories/chiriaccasian123)
